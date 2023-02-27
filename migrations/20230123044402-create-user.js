@@ -13,6 +13,7 @@ module.exports = {
         type: Sequelize.STRING,
         allowNull: false,
       },
+      // profession: {      },
       email: {
         type: Sequelize.STRING,
         allowNull: false,
